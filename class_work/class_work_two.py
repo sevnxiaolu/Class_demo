@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 
 '''
 
+
 '''
 均值滤波: 均值滤波是指任意一点的像素值，都是周围N*M个像素值的均值
 result = cv2.blur(图像, 核大小)，其中核大小是以(宽度, 高度)

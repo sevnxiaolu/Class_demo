@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 　　　　（２）对降低灰度后的图像进行直方图均衡化处理；
 　　　　（３）在同一个窗口输出显示原始图像和２种结果图像。
 '''
+
 # 统计各灰度值的像素个数
 def histogram(image):
     (row, col) = image.shape
