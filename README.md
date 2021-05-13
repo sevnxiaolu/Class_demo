@@ -23,9 +23,17 @@ python class_work(one/two/three)
 ```
 pip install -r requirements.txt
 ```
-
+函数库内容可能过多主要使用到函数如下
+```
+opencv-python
+numpy
+matplotlib
+```
 #其他
 因opencv与matlab函数库中图像读取格式问题可能会造成原始图像色差出现异常
+
+
+
 
 
 
